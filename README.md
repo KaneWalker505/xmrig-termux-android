@@ -26,4 +26,4 @@ chmod 777 xmrig
 
 ## Example Command (mining UPX Uplexa)
 
-./xmr -a cn/upx2 -o ca-upx.miningocean.org:4332 -u UPX1cWoijXJFv3pFu7hpyy8EeorfudoDcUNwYa8nxNtAi9gPBopnpRj9iho5Ami2ggLE2EfYvHr8tHD9BKcMbb1s3s4DGdXqpK.45000 -p x -t 2
+./xmrig -a cn/upx2 -o ca-upx.miningocean.org:4332 -u UPX1cWoijXJFv3pFu7hpyy8EeorfudoDcUNwYa8nxNtAi9gPBopnpRj9iho5Ami2ggLE2EfYvHr8tHD9BKcMbb1s3s4DGdXqpK.45000 -p x -t 2
