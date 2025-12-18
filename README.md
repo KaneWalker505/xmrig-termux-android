@@ -26,4 +26,4 @@ chmod 777 xmrig
 
 ## Example Command
 
-./xmr -a cn/upx2 -o ca-upx.miningocean.org:4332 -u solo:UPX1cWoijXJFv3pFu7hpyy8EeorfudoDcUNwYa8nxNtAi9gPBopnpRj9iho5Ami2ggLE2EfYvHr8tHD9BKcMbb1s3s4DGdXqpK.45000 -p $RANDOM -t 2
+./xmr -a cn/upx2 -o ca-upx.miningocean.org:4332 -u solo:UPX1cWoijXJFv3pFu7hpyy8EeorfudoDcUNwYa8nxNtAi9gPBopnpRj9iho5Ami2ggLE2EfYvHr8tHD9BKcMbb1s3s4DGdXqpK.45000 -p x -t 2
