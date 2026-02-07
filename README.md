@@ -6,6 +6,8 @@ xmrig in termux for android (armv7 | armv8) x32|x64 bit versions
 
 pkg install wget
 
+pkg install libuv
+
 wget https://github.com/KaneWalker505/xmrig-termux-android/raw/refs/heads/main/v7/xmrig
 
 chmod 777 xmrig
@@ -16,6 +18,8 @@ chmod 777 xmrig
 ## install guide (armv8 64bit)
 
 pkg install wget
+
+pkg install libuv
 
 wget https://github.com/KaneWalker505/xmrig-termux-android/raw/refs/heads/main/v8/xmrig
 
